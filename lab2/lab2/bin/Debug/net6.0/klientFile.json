@@ -1,0 +1,54 @@
+[
+  {
+    "Client_ID": 1,
+    "FIO_clienta": "Sidorov",
+    "Telefon_clienta": "8900",
+    "ZakazID": 1,
+    "zakaz": {
+      "Kodzakazauslugi": 1,
+      "IDyslugi": 1,
+      "IDclenta": 1,
+      "IDtipazakaza": 1,
+      "IDsotrudnika": 1
+    }
+  },
+  {
+    "Client_ID": 2,
+    "FIO_clienta": "Pilkin",
+    "Telefon_clienta": "8901",
+    "ZakazID": 2,
+    "zakaz": {
+      "Kodzakazauslugi": 2,
+      "IDyslugi": 2,
+      "IDclenta": 2,
+      "IDtipazakaza": 2,
+      "IDsotrudnika": 2
+    }
+  },
+  {
+    "Client_ID": 3,
+    "FIO_clienta": "Visin",
+    "Telefon_clienta": "8902",
+    "ZakazID": 3,
+    "zakaz": {
+      "Kodzakazauslugi": 3,
+      "IDyslugi": 3,
+      "IDclenta": 3,
+      "IDtipazakaza": 3,
+      "IDsotrudnika": 3
+    }
+  },
+  {
+    "Client_ID": 4,
+    "FIO_clienta": "Vzdorov",
+    "Telefon_clienta": "8903",
+    "ZakazID": 4,
+    "zakaz": {
+      "Kodzakazauslugi": 4,
+      "IDyslugi": 4,
+      "IDclenta": 4,
+      "IDtipazakaza": 4,
+      "IDsotrudnika": 4
+    }
+  }
+]
